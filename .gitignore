@@ -1,2 +1,5 @@
 data/
-model/
+modelFile/
+models/LSTM_Autoencoders/venv
+models/IsalationForest/venv
+models/Autencoders/venv
